@@ -96,11 +96,11 @@
 
 ## 🔥 Featured Projects
 <p align="center">
-  <a href="https://star-scape-gules.vercel.app/">
+  <a href="https://star-scape-gules.vercel.app/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-252003&repo=project1&theme=radical" />
   </a>
-  
 </p>
+
 
 ## 📈 Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Om-252003&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
