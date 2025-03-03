@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🚀 Currently working on **revolutionary SaaS products**
 - 🧠 Deep diving into **AI & Machine Learning**
