@@ -97,9 +97,10 @@
 ## 🔥 Featured Projects
 <p align="center">
   <a href="https://star-scape-gules.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-252003&repo=StarScape&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Om-252003&repo=StarScape&theme=radical&random=1" />
   </a>
 </p>
+
 
 
 
