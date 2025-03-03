@@ -49,12 +49,12 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI/ML" width="65" height="65" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" alt="AI/ML" width="65" height="65" />
       <br>AI/ML
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="65" height="65" />
-      <br>Android
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="65" height="65" />
+      <br>Postman
     </td>
     <td align="center"  width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
