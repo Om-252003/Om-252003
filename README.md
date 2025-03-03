@@ -1,6 +1,6 @@
 # Hey, I'm Omsai 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Python+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -13,16 +13,63 @@
 
 
 
-## About Me
-```javascript
-const developer = {
-  code: ["JavaScript", "TypeScript", "Python", "Go"],
-  tools: ["React", "Node.js", "Docker", "AWS"],
-  architecture: ["microservices", "event-driven", "design patterns"],
-  currentFocus: "Building scalable applications with modern tech",
-  funFact: "I debug code faster with energy drinks than with breakpoints"
-};
-```
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🚀 Currently working on **revolutionary SaaS products**
+- 🧠 Deep diving into **AI & Machine Learning**
+- 💬 Ask me about **full-stack development, MERN, or tech startups**
+- ⚡ Fun fact: **Been coding in 10+ languages, yet the semicolon is still my final boss**
+
+### Skills & Technologies:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 <p align="center">
