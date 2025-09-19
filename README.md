@@ -20,7 +20,7 @@
 - 🚀 Currently working on **revolutionary SaaS products**
 - 🧠 Deep diving into **AI & Machine Learning**
 - 💬 Ask me about **full-stack development, MERN, or tech startups**
-- ⚡ Fun fact: **Been coding in 10+ languages, yet the semicolon is still my final boss**
+- ⚡ Fun fact: **Been coding in 10+ languages, yet semicolon is still my final boss**
 
 ### Skills & Technologies:
 
